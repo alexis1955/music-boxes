@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(80,80,80)
+  background-image: url("http://cdn.playbuzz.com/cdn/470cd7af-2fdb-4f8f-8dc8-1985cc7fc5f1/3774c0ee-e75c-48bb-8ab7-933ce5f044b6.jpg")
 }
 
 #instrument{
@@ -19,7 +19,7 @@ body{
 }
 
 #c{
-  background-color: #3E181b;
+  background-color: #6593b2;
 }
 #c:hover{
   background-color: #661920;
